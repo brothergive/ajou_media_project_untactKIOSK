@@ -1,1 +1,1 @@
-# ajou_midia_project_untactKIOSK
+# ajou_media_project_untactKIOSK
