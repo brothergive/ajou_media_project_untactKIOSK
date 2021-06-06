@@ -1,2 +1,2 @@
 # ajou_media_project_untactKIOSK
-if u want to see the source, go to master branch
+To view the source, navigate to the Master Branch.
